@@ -8,7 +8,7 @@ Install nodemon and create-react-app globally using below command:
 `npm i -g create-react-app`
 
 Installation Instructions 🔧
-Clone the repo using git clone git@github.com:imranhsayed/react-node-boilerplate.git
+Clone the repo using git clone git@github.com:Ehteshamali-889/React-Node-BoilerPlate.git
 ```cd google-maps-in-react
 npm install
 cd client
